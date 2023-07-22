@@ -1,0 +1,50 @@
+/* i want border for class para */
+.container2 {
+  width: max-content;
+  height: max-content;
+  color: black;
+  display: flex;
+}
+.para12 {
+  border: 2px solid rgb(217, 22, 22);
+  border-radius: 5%;
+  opacity: 0.3;
+  margin-top: 50px;
+  margin-right: 20px;
+  width: 400px;
+}
+.para12:hover {
+  opacity: 1;
+  cursor: pointer;
+  color: orange;
+}
+.para13 {
+  border: 2px solid rgb(217, 22, 22);
+  border-radius: 5%;
+  opacity: 0.3;
+  height: 820px;
+  width: 400px;
+  margin-top: 50px;
+  margin-left: 60px;
+  margin-right: 60px;
+}
+.para13:hover {
+  opacity: 1;
+  cursor: pointer;
+  color: azure;
+}
+
+.para14 {
+  border: 2px solid rgb(217, 22, 22);
+  border-radius: 5%;
+  opacity: 0.3;
+  height: 820px;
+  width: 400px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.para14:hover {
+  opacity: 1;
+  cursor: pointer;
+  color: #bcd2d0;
+}
